@@ -1,0 +1,59 @@
+body {
+    background-color:#c8deec;
+    font-family:Helvetica Neue;
+}
+h1{
+    font-family:Courier New;
+}
+
+h2 {
+    font-family:Geneva;
+    color:#7BA4BE;
+}
+
+h3 {
+    font-family:Geneva;
+    color:#7BA4BE;
+}
+
+h4 {
+    font-family:Courier New;
+    color:#887;
+    font-style: italic;
+}
+
+img { 
+    height:300px;
+    width:300px;
+    border:3px solid #021a40;
+}
+
+
+a {
+    font-weight:bold;
+    text-decoration: none;
+    color:black; 
+}
+
+/* 
+
+- The font family for the h2 is Century Gothic
+- The font family for all other elements is Helvetica Neue
+- The font weight for the link is bold 
+- Bonus: The border on the page and around the image is black 
+
+Task
+
+- The color for the text reading "Nutrition Information" is #887
+- The font family for the h1, h3 and h4 is Courier New
+- The font family for the h2 is Century Gothic
+- The font family for all other elements is Helvetica Neue
+- The font weight for the link is bold 
+
+
+- The font family for the h1, h3 and h4 is Courier New
+- The background color for the page is #c8deec
+- The color for the text reading "Nutrition Information" is #887
+- Bonus: The border on the page and around the image is black
+*/
+
