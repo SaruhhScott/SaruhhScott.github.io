@@ -1,0 +1,55 @@
+body {
+    background: white;
+    margin: 0 auto;
+}
+
+.graybox {
+    background: lightgray;
+    width:1000px;
+    height:300px;
+    margin: 0 auto;
+    padding: 15px 15px;
+}
+
+.navbar {
+    background-color: black;
+    text-align: center;
+    padding: 7px 7px;
+    color: white;
+     }
+
+.box {
+    overflow: hidden;
+}
+.tomatobox1 {
+    background-color: tomato;
+    margin-top: 20px;
+    padding: 20px 10px;
+    font-size: 15px;
+    text-align: center;
+    color: blue;
+}
+
+.tomatobox2 {
+    background-color: tomato;
+    margin-top: 10px;
+    padding: 20px 10px;
+    font-size: 15px;
+    text-align: center;
+    color: olive;
+}
+
+.tomatobox3 {
+    background-color: tomato;
+    margin-top: 10px;
+    padding: 20px 10px;
+    font-size: 15px;
+    text-align: center;
+    font-weight:medium;
+    color: yellow;
+}
+
+ a { 
+    color: white;
+    text-decoration: none;
+}
