@@ -1,0 +1,96 @@
+.blog-wrap {
+	width: 650px;
+	padding-top: 15px;
+	padding-left: 35px;
+}
+
+p {
+	font-family: 'Lucida Sans', sans-serif;
+	font-size: 13px;
+	line-height: 22px;
+	color: #707070;
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	font-weight: lighter;
+	font-size: 25px;
+	color: black;
+}
+
+h2 {
+	font-family: courier, sans-serif;
+	font-weight: lighter;
+	font-size: 25px;
+	color: silver;
+}
+
+h3 {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	color: tomato;
+	text-align: right;
+}
+
+h4 {
+	font-family: Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: lighter;
+	color: black;
+}
+
+.hline {
+	width: 100%;
+	height: .2px;
+	color: #F5F5F5;
+}
+
+a {
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px;
+}
+
+.mainnav {
+	display: inline;
+	font-family: Helvetica, sans-serif;
+	font-size: 13px;
+	color: lightgray;
+}
+
+a:link {
+	color: silver;
+}
+
+nav:hover {
+	background: pink;
+}
+
+.fashion1 {
+	width: 650px;
+}
+
+.footer {
+	color: tomato;
+	font-family: Helvetica, sans-serif;
+	font-weight: lighter;
+	font-size: 10px;
+	padding-top: 20px;
+	padding-bottom: 15px;
+	text-align: left;
+}
+
+.copyright {
+	color: silver;
+	font-family: Helvetica, sans-serif;
+	font-weight: lighter;
+	font-size: 10px;
+	padding-bottom: 30px;
+}
+
+
+/* nav:hover{
+	background: pink;
+} */

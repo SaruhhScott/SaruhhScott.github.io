@@ -1,0 +1,52 @@
+header, 
+footer
+{ 
+  height:100px;
+}
+
+ section, aside {
+   height: 200px;
+
+ }
+
+header {
+  background: silver;
+}
+
+main {
+  display:flex;
+  
+}
+
+
+.section1 {
+  background: coral;
+  width: 20%; 
+  display: flex;
+  flex-flow:  row wrap;
+  justify-content:space-between;
+  margin-top: 10px;
+}
+
+.section2 {
+  background: turquoise;
+  width: 60%;
+  display: flex;
+  justify-content:center;
+  margin-top: 10px;
+}
+
+.section3 {
+  background: coral;
+  width: 20%;
+  display: flex;
+  justify-content:space-between;
+  margin-top: 10px;
+}
+
+footer {
+  background: silver;
+  display: flex;
+  justify-content:space-between;
+  margin-top: 10px;
+}
