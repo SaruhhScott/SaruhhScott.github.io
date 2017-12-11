@@ -1,0 +1,77 @@
+
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Source Sans Pro', sans-serif; */
+
+/* BASICS */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+body {
+  width:1280px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: yellow;
+  font-family: "Merriweather", serif;
+}
+
+h2 {
+  font-family: "Oswald"
+  font-size: 25px;
+}
+
+h3 {
+  font-family: "Merriweather", serif;
+
+}
+
+/* HEADER */
+
+/* TOP BAR */
+
+.tagline {
+  font-family: 'Merriweather', serif;
+  background-color:#C6C6C6;
+  font-style: italic;
+  font-size: 20pt;
+  text-align: center;
+  padding: 15px;
+}
+
+.crossed-out {
+  text-decoration: line-through;
+  color:gray;
+  }
+  
+  .under-lined {
+    border-bottom: 3px solid yellow;
+  }
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/* COVER PHOTO */
+
+.cover-photo-box {
+  background-image: url("../img/coworking.jpg");
+  height: 750px;
+}
+
+.white-box{
+  width: 400px;
+  padding: 30px;
+  background-color:rgba(255,255,255, 0.5);
+  }
+  
+
+/* ONBOARDING */
+
+/* FOOTER */

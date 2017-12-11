@@ -1,0 +1,36 @@
+header, 
+footer
+{ 
+  height:100px;
+}
+
+ section, aside {
+   height: 300px;
+ }
+
+header {
+  background: silver;
+}
+
+main {
+  display:flex;
+}
+
+.section1 {
+  background: coral;
+  width: 20%;
+}
+
+.section2 {
+  background: turquoise;
+  width: 60%;
+}
+
+.section3 {
+  background: coral;
+  width: 20%;
+}
+
+footer {
+  background: silver;
+}
